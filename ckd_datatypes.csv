@@ -1,0 +1,26 @@
+,Variable Name,Data Type,Missing Data
+0,age,float64,2.25
+1,bp,float64,3.0
+2,sg,object,11.75
+3,al,object,11.5
+4,su,object,12.25
+5,rbc,object,38.0
+6,pc,object,16.25
+7,pcc,object,1.0
+8,ba,object,1.0
+9,bgr,float64,11.0
+10,bu,float64,4.75
+11,sc,float64,4.25
+12,sod,float64,21.75
+13,pot,float64,22.0
+14,hemo,float64,13.0
+15,pcv,float64,17.75
+16,wbcc,float64,26.5
+17,rbcc,float64,32.75
+18,htn,object,0.5
+19,dm,object,0.5
+20,cad,object,0.5
+21,appet,object,0.25
+22,pe,object,0.25
+23,ane,object,0.25
+24,class,object,0.0
